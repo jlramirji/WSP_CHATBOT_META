@@ -299,7 +299,7 @@ def descargar_adjunto_admin(incidente_id, filename):
 def VerifyToken():
 
     try:
-        accessToken = config.WHATSAPP_ACCESS_TOKEN
+        accessToken = config.VERIFY_TOKEN
         token = request.args.get("hub.verify_token")
         challenge = request.args.get("hub.challenge")
 
