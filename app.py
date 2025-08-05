@@ -47,7 +47,7 @@ fechahoy = datetime.now().date()
 app = Flask(__name__)
 @app.route('/welcome', methods  = ['GET'])
 def index():
-    return "Welcome to the Flask app!"
+    return "Bienvenido al chatbot reporte novedades!"
 
 @app.route('/admin/limpiar-sesiones', methods=['POST'])
 def limpiar_sesiones_admin():
