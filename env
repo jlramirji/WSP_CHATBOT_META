@@ -1,0 +1,34 @@
+
+#Varaibles de entorno para la conexión con el servicio de azure y traducir el audio a texto
+AZURE_SPEECH_KEY= "EJu1IBSNdmO1XiFYEk2QJMgNsq4oNpllyYGUKuCoKsEGWf6orrJCJQQJ99BCACYeBjFXJ3w3AAAYACOGZj9D"
+AZURE_SPEECH_REGION="eastus"
+
+                      
+WHATSAPP_ACCESS_TOKEN=EAAO4qdmmXbQBPM69Bhcz8kEuTLgHowZCcdobZBZAq6Wa54pOEOYoqLzl6nVnZBDRWMnGdsHpBuaREdoZC8QSNMQpqv6fbLEEqOoZCWxnIEow53rc4CCf0G5X6LSGrLos58ubGp9vm9T0EvDZCO9AkwxYvIdyXUufAvyisxAwl2A1Gmkmg4ZCQoIWYBksKeQKBBHbxAZDZD
+WHATSAPP_PHONE_NUMBER_ID=662597943605166 
+WHATSAPP_VERIFY_TOKEN=78SAJSNJANS76S8DSHBSBSDS
+
+
+
+#EAAO4qdmmXbQBPM69Bhcz8kEuTLgHowZCcdobZBZAq6Wa54pOEOYoqLzl6nVnZBDRWMnGdsHpBuaREdoZC8QSNMQpqv6fbLEEqOoZCWxnIEow53rc4CCf0G5X6LSGrLos58ubGp9vm9T0EvDZCO9AkwxYvIdyXUufAvyisxAwl2A1Gmkmg4ZCQoIWYBksKeQKBBHbxAZDZD
+
+#accessToken = "78SAJSNJANS76S8DSHBSBSDS"
+
+#Ruta de archivos de DA
+rutaCompartida = "\\chec-apd09\\Ejecutables\\DA"
+
+# Variables de entorno para la base de datos SQL SERVER
+DB_DRIVER=ODBC Driver 18 for SQL Server
+# DB_SERVER=CHEC-bdds04\checsqldes
+# DB_DATABASE=DM_SERVCORPORATIVOS
+# DB_USER=intdmservcorporativos
+# DB_PASSWORD=JfxwLrc4rTM8w*
+# #DB_TRUSTED_CONNECTION=Yes
+DB_TRUST_SERVER_CERTIFICATE=Yes
+
+
+DB_SERVER = "servidorchatbot2.database.windows.net"
+DB_PORT = 1433
+DB_USER = "adminjorge"
+DB_PASSWORD = "Azuresql2025*"
+DB_DATABASE = "chatbotbdmeta2"

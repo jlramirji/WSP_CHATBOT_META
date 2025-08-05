@@ -1,0 +1,10 @@
+ven/
+__pycache__/
+*.pyc
+*.pyo   
+.DS_store
+speechToText_solojs.js
+speech_recognition.js
+copias/
+app copy.py
+archivo_de_pruebas.py
