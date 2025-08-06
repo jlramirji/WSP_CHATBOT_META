@@ -1,0 +1,216 @@
+[2025-08-06 16:56:45] [SYSTEM] 🚀 Aplicación WhatsApp iniciada | Puerto: 5000, Debug: True
+[2025-08-06 16:56:47] [SYSTEM] 🚀 Aplicación WhatsApp iniciada | Puerto: 5000, Debug: True
+[2025-08-06 16:57:00] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMDI5NUUwMjVGNUY5OEFGMjRDRTQwNzY5OUVBQjRDQUQA
+[2025-08-06 16:57:00] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:57:00, Diferencia: 0s, Total procesados: 1
+[2025-08-06 16:57:00] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Hola
+[2025-08-06 16:57:00] [INFO] [573137182944] Iniciando procesamiento de mensaje: Hola...
+[2025-08-06 16:57:00] [SESSION] [573137182944] 👤 SESION CREADA: nueva sesión iniciada
+[2025-08-06 16:57:32] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQzhENDlGMUQ2NDE4MEFEOEQwMzdDQTM0RkQzRUNBRDkA
+[2025-08-06 16:57:32] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:57:32, Diferencia: 0s, Total procesados: 2
+[2025-08-06 16:57:32] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Me afecta
+[2025-08-06 16:57:32] [INFO] [573137182944] Iniciando procesamiento de mensaje: Me afecta...
+[2025-08-06 16:57:52] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggNzIwN0Q1Qjc3MjBDRTkwRUQ0QUMyMEMzQzJGMzczMkEA
+[2025-08-06 16:57:52] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:57:53, Diferencia: -1s, Total procesados: 3
+[2025-08-06 16:57:52] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Hoy
+[2025-08-06 16:57:52] [INFO] [573137182944] Iniciando procesamiento de mensaje: Hoy...
+[2025-08-06 16:58:00] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQTNBNzhFQUI5REI0QkIzREUwMDQ1NzY3MkMwRUI5RkMA
+[2025-08-06 16:58:00] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:58:00, Diferencia: 0s, Total procesados: 4
+[2025-08-06 16:58:00] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Manizales
+[2025-08-06 16:58:00] [INFO] [573137182944] Iniciando procesamiento de mensaje: Manizales...
+[2025-08-06 16:58:05] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggRjIyODk3NDg5RDM2MjRBQjM2MDVBRDAwNjU5RDI2NzYA
+[2025-08-06 16:58:05] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:58:05, Diferencia: 0s, Total procesados: 5
+[2025-08-06 16:58:05] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Subestación
+[2025-08-06 16:58:05] [INFO] [573137182944] Iniciando procesamiento de mensaje: Subestación...
+[2025-08-06 16:58:17] [CHAT] [573137182944] 📥 ENTRADA AUDIO: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggRTczRjVEQjY2MjdGNzVBMzRGNTAzRjJFRDVGNDUxRDIA
+[2025-08-06 16:58:17] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:58:16, Diferencia: 1s, Total procesados: 6
+[2025-08-06 16:58:17] [CHAT] [573137182944] 📥 ENTRADA AUDIO: Archivo adjunto recibido
+[2025-08-06 16:58:17] [INFO] [573137182944] Procesando archivo audio
+[2025-08-06 16:58:42] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggNjZFMzNEMEZEMkJBOThERUE2REY4OEY0NDcwQzAyNDgA
+[2025-08-06 16:58:42] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:58:42, Diferencia: 0s, Total procesados: 7
+[2025-08-06 16:58:42] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Estoy de acuerdo
+[2025-08-06 16:58:42] [INFO] [573137182944] Iniciando procesamiento de mensaje: Estoy de acuerdo...
+[2025-08-06 16:58:51] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggNTc1NjFDRTExNkU5RTQ2MDdGQ0E5MjhEMEM2QTI4RTgA
+[2025-08-06 16:58:51] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:58:51, Diferencia: 0s, Total procesados: 8
+[2025-08-06 16:58:51] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Si tengo
+[2025-08-06 16:58:51] [INFO] [573137182944] Iniciando procesamiento de mensaje: Si tengo...
+[2025-08-06 16:59:02] [CHAT] [573137182944] 📥 ENTRADA UNSUPPORTED: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQTk1QjM1NTg4QTkzREIyQUYwMjk3QzMyQzVCNDREOTQA
+[2025-08-06 16:59:02] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:59:02, Diferencia: 0s, Total procesados: 9
+[2025-08-06 16:59:04] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggNEVBNDg5NzAyMEFDQ0JCODhGQzA3OTY0QURBRkJCNTIA
+[2025-08-06 16:59:04] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:59:03, Diferencia: 1s, Total procesados: 10
+[2025-08-06 16:59:04] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 16:59:04] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 16:59:05] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggNkRDRjVBNDU3RTYxNUZFNkYxQzRGMEE4MkNDMkYxNTEA
+[2025-08-06 16:59:05] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 16:59:03, Diferencia: 2s, Total procesados: 11
+[2025-08-06 16:59:05] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 16:59:05] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 16:59:06] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #1 procesado
+[2025-08-06 16:59:06] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #2 procesado
+[2025-08-06 16:59:39] [SESSION] [573137182944] Iniciando finalización exitosa
+[2025-08-06 16:59:39] [INFO] [573137182944] Iniciando registro en base de datos
+[2025-08-06 16:59:41] [SUCCESS] ✅ EXITO usuario: 573137182944: Datos registrados exitosamente en BD con ID: None
+[2025-08-06 16:59:41] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivos adjuntos organizados en carpeta None
+[2025-08-06 16:59:41] [INFO] [573137182944] Texto del reporte: Es una prueba de audio.
+[2025-08-06 16:59:41] [INFO] [573137182944] Archivos adjuntos: 2 archivos
+[2025-08-06 16:59:42] [INFO] [573137182944] Iniciando limpieza de datos de sesión
+[2025-08-06 16:59:42] [SUCCESS] ✅ EXITO usuario: 573137182944: Datos de sesión limpiados exitosamente
+[2025-08-06 16:59:42] [SUCCESS] ✅ EXITO usuario: 573137182944: Sesión finalizada exitosamente
+[2025-08-06 17:00:20] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQTc0RjYxQzk0QkY3MjFBQjNCRUNCRjYwNkEzRjM0NzkA
+[2025-08-06 17:00:20] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:00:20, Diferencia: 0s, Total procesados: 12
+[2025-08-06 17:00:20] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Hola
+[2025-08-06 17:00:20] [INFO] [573137182944] Iniciando procesamiento de mensaje: Hola...
+[2025-08-06 17:00:20] [SESSION] [573137182944] 👤 SESION CREADA: nueva sesión iniciada
+[2025-08-06 17:01:12] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMkFFRDRBMUVCM0Q0MThCMDhCRTY2N0FGQjJGNzg2NTQA
+[2025-08-06 17:01:12] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:01:12, Diferencia: 0s, Total procesados: 13
+[2025-08-06 17:01:12] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Afecta a una persona
+[2025-08-06 17:01:12] [INFO] [573137182944] Iniciando procesamiento de mensaje: Afecta a una persona...
+[2025-08-06 17:01:23] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggNkIzNTFFOEVCODYxMDc2QTgxNjNEOTIxMzVBRjQ2NEYA
+[2025-08-06 17:01:23] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:01:23, Diferencia: 0s, Total procesados: 14
+[2025-08-06 17:01:23] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Juan Carlos
+[2025-08-06 17:01:23] [INFO] [573137182944] Iniciando procesamiento de mensaje: Juan Carlos...
+[2025-08-06 17:01:55] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggOTU2QUI3OTYxREM5RDkyODc4MzA4RTA1OTlGMEU1MDMA
+[2025-08-06 17:01:55] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:01:56, Diferencia: -1s, Total procesados: 15
+[2025-08-06 17:01:55] [CHAT] [573137182944] 📥 ENTRADA TEXTO: 20
+[2025-08-06 17:01:55] [INFO] [573137182944] Iniciando procesamiento de mensaje: 20...
+[2025-08-06 17:02:08] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQTk2RDc5MEY4Mjk2QzUzQTE3ODdCNjEwRDczMjE0ODcA
+[2025-08-06 17:02:08] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:02:08, Diferencia: 0s, Total procesados: 16
+[2025-08-06 17:02:08] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Ayer
+[2025-08-06 17:02:08] [INFO] [573137182944] Iniciando procesamiento de mensaje: Ayer...
+[2025-08-06 17:02:15] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggRDczMEZFODQzREJBRjdDRkU5NDg2MjU0RjZDQTg5N0QA
+[2025-08-06 17:02:15] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:02:15, Diferencia: 0s, Total procesados: 17
+[2025-08-06 17:02:15] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Neira
+[2025-08-06 17:02:15] [INFO] [573137182944] Iniciando procesamiento de mensaje: Neira...
+[2025-08-06 17:02:25] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMDkzQTIwMzk2MkJDOTExQzRGNjg4QTFDRTIzMDgzQ0YA
+[2025-08-06 17:02:25] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:02:25, Diferencia: 0s, Total procesados: 18
+[2025-08-06 17:02:25] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Subestación principal
+[2025-08-06 17:02:25] [INFO] [573137182944] Iniciando procesamiento de mensaje: Subestación principal...
+[2025-08-06 17:02:38] [CHAT] [573137182944] 📥 ENTRADA AUDIO: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggNzA4QTMyMzJEOTUzMzA4QjJDNDE0QTgyNzVGQkNFNDMA
+[2025-08-06 17:02:38] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:02:37, Diferencia: 1s, Total procesados: 19
+[2025-08-06 17:02:38] [CHAT] [573137182944] 📥 ENTRADA AUDIO: Archivo adjunto recibido
+[2025-08-06 17:02:38] [INFO] [573137182944] Procesando archivo audio
+[2025-08-06 17:02:53] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQkQyNzJDN0M3MUQzMzE3NThDNkUyRDcyM0Q2QUI0NUUA
+[2025-08-06 17:02:53] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:02:53, Diferencia: 0s, Total procesados: 20
+[2025-08-06 17:02:53] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Estoy de acuerdo
+[2025-08-06 17:02:53] [INFO] [573137182944] Iniciando procesamiento de mensaje: Estoy de acuerdo...
+[2025-08-06 17:03:02] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMDlCODI2Njk5MkNDQzkwRjAwNkU5RDNERjgxODNFOTgA
+[2025-08-06 17:03:02] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:03:01, Diferencia: 1s, Total procesados: 21
+[2025-08-06 17:03:02] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Si tengo
+[2025-08-06 17:03:02] [INFO] [573137182944] Iniciando procesamiento de mensaje: Si tengo...
+[2025-08-06 17:03:26] [CHAT] [573137182944] 📥 ENTRADA UNSUPPORTED: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQzc2MjYyMzUzMUY2ODBDNEYxRDYyNEREMkVBRkI0N0IA
+[2025-08-06 17:03:26] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:03:26, Diferencia: 0s, Total procesados: 22
+[2025-08-06 17:03:28] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMjY5NkU0MzJFQ0UyNEZGQjZBNDgzMzJDOTYxODA0OEQA
+[2025-08-06 17:03:28] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:03:26, Diferencia: 2s, Total procesados: 23
+[2025-08-06 17:03:28] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:03:28] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:03:29] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggM0U1OUI3NjE4MTg0QUVGMjA0NUFBRjlDMzkyQjMwQ0IA
+[2025-08-06 17:03:29] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:03:27, Diferencia: 2s, Total procesados: 24
+[2025-08-06 17:03:29] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:03:29] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:03:29] [CHAT] [573137182944] 📥 ENTRADA VIDEO: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggRTAwNzJERkEwQzdBRjBCMUVCOTlCQ0I2RDQ0RkM5QTgA
+[2025-08-06 17:03:29] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:03:28, Diferencia: 1s, Total procesados: 25
+[2025-08-06 17:03:29] [CHAT] [573137182944] 📥 ENTRADA VIDEO: Archivo adjunto recibido
+[2025-08-06 17:03:29] [INFO] [573137182944] Procesando archivo video
+[2025-08-06 17:03:30] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #1 procesado
+[2025-08-06 17:03:31] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo video #2 procesado
+[2025-08-06 17:03:31] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #3 procesado
+[2025-08-06 17:04:03] [SESSION] [573137182944] Iniciando finalización exitosa
+[2025-08-06 17:04:03] [INFO] [573137182944] Iniciando registro en base de datos
+[2025-08-06 17:04:06] [SUCCESS] ✅ EXITO usuario: 573137182944: Datos registrados exitosamente en BD con ID: None
+[2025-08-06 17:04:06] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivos adjuntos organizados en carpeta None
+[2025-08-06 17:04:06] [INFO] [573137182944] Texto del reporte: Para reportar que Juan Carlos salió a vacaciones.
+[2025-08-06 17:04:06] [INFO] [573137182944] Archivos adjuntos: 3 archivos
+[2025-08-06 17:04:07] [INFO] [573137182944] Iniciando limpieza de datos de sesión
+[2025-08-06 17:04:07] [SUCCESS] ✅ EXITO usuario: 573137182944: Datos de sesión limpiados exitosamente
+[2025-08-06 17:04:07] [SUCCESS] ✅ EXITO usuario: 573137182944: Sesión finalizada exitosamente
+[2025-08-06 17:11:00] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMDg0OTgzOUZCOTMyRTA5MkIwRTg4MjU2Q0ExRjdBOTEA
+[2025-08-06 17:11:00] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:11:00, Diferencia: 0s, Total procesados: 26
+[2025-08-06 17:11:00] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Hola
+[2025-08-06 17:11:00] [INFO] [573137182944] Iniciando procesamiento de mensaje: Hola...
+[2025-08-06 17:11:00] [SESSION] [573137182944] 👤 SESION CREADA: nueva sesión iniciada
+[2025-08-06 17:12:08] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQjk1MEI4QzAyNDYxODYwQkRGQ0M0NEUwOUQxMjlCQkQA
+[2025-08-06 17:12:08] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:12:08, Diferencia: 0s, Total procesados: 27
+[2025-08-06 17:12:08] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Afecta a una persona
+[2025-08-06 17:12:08] [INFO] [573137182944] Iniciando procesamiento de mensaje: Afecta a una persona...
+[2025-08-06 17:12:16] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMzA5RDFGRkNDQzEyNzQ5NjUwRkVFQ0M5NjUwMDg0QjAA
+[2025-08-06 17:12:16] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:12:16, Diferencia: 0s, Total procesados: 28
+[2025-08-06 17:12:16] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Luis Carlos Cardona Tamayo
+[2025-08-06 17:12:16] [INFO] [573137182944] Iniciando procesamiento de mensaje: Luis Carlos Cardona Tamayo...
+[2025-08-06 17:12:25] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMjcyNEY4MjBEMUUzQUE0NDhGNjRGRjQ5QjRGMTNFMDIA
+[2025-08-06 17:12:25] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:12:25, Diferencia: 0s, Total procesados: 29
+[2025-08-06 17:12:25] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Ayer
+[2025-08-06 17:12:25] [INFO] [573137182944] Iniciando procesamiento de mensaje: Ayer...
+[2025-08-06 17:12:35] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMTkyM0U4MTUyNTREODUxNzQxRDVFNDZFRjNCQzU3RUMA
+[2025-08-06 17:12:35] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:12:35, Diferencia: 0s, Total procesados: 30
+[2025-08-06 17:12:35] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Neira
+[2025-08-06 17:12:35] [INFO] [573137182944] Iniciando procesamiento de mensaje: Neira...
+[2025-08-06 17:12:44] [CHAT] [573137182944] 📥 ENTRADA TEXT: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggOUM0MTg3Qjk3MkMwM0UyMDBFOTNCQUZCREYxNkRDNzgA
+[2025-08-06 17:12:44] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:12:44, Diferencia: 0s, Total procesados: 31
+[2025-08-06 17:12:44] [CHAT] [573137182944] 📥 ENTRADA TEXTO: Cancha principal
+[2025-08-06 17:12:44] [INFO] [573137182944] Iniciando procesamiento de mensaje: Cancha principal...
+[2025-08-06 17:12:54] [CHAT] [573137182944] 📥 ENTRADA AUDIO: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQkVBQjlFRDAxQzhGRDQ3MkQxQjQ0NTFEMTVEN0M3RkYA
+[2025-08-06 17:12:54] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:12:53, Diferencia: 1s, Total procesados: 32
+[2025-08-06 17:12:54] [CHAT] [573137182944] 📥 ENTRADA AUDIO: Archivo adjunto recibido
+[2025-08-06 17:12:54] [INFO] [573137182944] Procesando archivo audio
+[2025-08-06 17:13:07] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggOUQ2ODQ3NkY4RDQ4MkMxQUUwNkE3NzgzOTNBMjlFRjcA
+[2025-08-06 17:13:07] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:07, Diferencia: 0s, Total procesados: 33
+[2025-08-06 17:13:07] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Estoy de acuerdo
+[2025-08-06 17:13:07] [INFO] [573137182944] Iniciando procesamiento de mensaje: Estoy de acuerdo...
+[2025-08-06 17:13:14] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMDZDNDEzNjg4NDRFNEQxQjEyODQ1MjQ2MUUxQUZDNDgA
+[2025-08-06 17:13:14] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:14, Diferencia: 0s, Total procesados: 34
+[2025-08-06 17:13:14] [CHAT] [573137182944] 📥 ENTRADA INTERACTIVO: Si tengo
+[2025-08-06 17:13:14] [INFO] [573137182944] Iniciando procesamiento de mensaje: Si tengo...
+[2025-08-06 17:13:31] [CHAT] [573137182944] 📥 ENTRADA UNSUPPORTED: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggOUMxQzFENTVENTU4RjI3RjREN0UzMTdEMDI0MTYwMzIA
+[2025-08-06 17:13:31] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:31, Diferencia: 0s, Total procesados: 35
+[2025-08-06 17:13:33] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQ0Q3QTM2NDFCMEFEODhEMzBBNUQyMDFGODNGMENBNzAA
+[2025-08-06 17:13:33] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:31, Diferencia: 2s, Total procesados: 36
+[2025-08-06 17:13:33] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:13:33] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:13:34] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggNUZGNkRDNjA3OTIwMkI0RkIxNkQxNUU1ODFDNzY0QTQA
+[2025-08-06 17:13:34] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:33, Diferencia: 1s, Total procesados: 37
+[2025-08-06 17:13:34] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:13:34] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:13:34] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggMzk3NjQyQjlGNEZCRkQ3NUI3N0I0QjQ5RkU4NjU4NEQA
+[2025-08-06 17:13:34] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:33, Diferencia: 1s, Total procesados: 38
+[2025-08-06 17:13:34] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:13:34] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:13:35] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #1 procesado
+[2025-08-06 17:13:35] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQUI5NzA3QkYwMTM5RkE3OEI1NTFEQUZGRjMwRTQ1RUEA
+[2025-08-06 17:13:35] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:33, Diferencia: 2s, Total procesados: 39
+[2025-08-06 17:13:35] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:13:35] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:13:35] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #2 procesado
+[2025-08-06 17:13:35] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQTQ0MUZEQzExRjlCMzFDREIxMTRBRjQwNUE2MzY0MEIA
+[2025-08-06 17:13:35] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:34, Diferencia: 1s, Total procesados: 40
+[2025-08-06 17:13:35] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:13:35] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:13:36] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #3 procesado
+[2025-08-06 17:13:36] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQ0JBNEI5NTJDRjE4NUY1RTUxMEIzRTdFNTREMzk2NDgA
+[2025-08-06 17:13:36] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:34, Diferencia: 2s, Total procesados: 41
+[2025-08-06 17:13:36] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:13:36] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:13:37] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQTg5QTUxQjg1MjVCNzlDQjc4NjQ3NDY5OTc5NjM1RDEA
+[2025-08-06 17:13:37] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:34, Diferencia: 3s, Total procesados: 42
+[2025-08-06 17:13:37] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:13:37] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:13:37] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #4 procesado
+[2025-08-06 17:13:37] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #5 procesado
+[2025-08-06 17:13:37] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggQkY5MUExNTJCMUZGNUFERDJDRjQ5REMzM0Q5QzQ1MDIA
+[2025-08-06 17:13:37] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:34, Diferencia: 3s, Total procesados: 43
+[2025-08-06 17:13:37] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:13:37] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:13:37] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #6 procesado
+[2025-08-06 17:13:38] [CHAT] [573137182944] 📥 ENTRADA IMAGE: ID: wamid.HBgMNTczMTM3MTgyOTQ0FQIAEhggOTgzRTdFRkNGQjJGQTMwMDE2MUQ2NUQ5MTdDRTFDRjkA
+[2025-08-06 17:13:38] [INFO] [573137182944] Mensaje válido procesado | Timestamp: 2025-08-06 17:13:34, Diferencia: 4s, Total procesados: 44
+[2025-08-06 17:13:38] [CHAT] [573137182944] 📥 ENTRADA IMAGE: Archivo adjunto recibido
+[2025-08-06 17:13:38] [INFO] [573137182944] Procesando archivo image
+[2025-08-06 17:13:38] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #7 procesado
+[2025-08-06 17:13:39] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #8 procesado
+[2025-08-06 17:13:39] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivo image #9 procesado
+[2025-08-06 17:14:12] [SESSION] [573137182944] Iniciando finalización exitosa
+[2025-08-06 17:14:12] [INFO] [573137182944] Iniciando registro en base de datos
+[2025-08-06 17:14:14] [SUCCESS] ✅ EXITO usuario: 573137182944: Datos registrados exitosamente en BD con ID: None
+[2025-08-06 17:14:15] [SUCCESS] ✅ EXITO usuario: 573137182944: Archivos adjuntos organizados en carpeta None
+[2025-08-06 17:14:15] [INFO] [573137182944] Texto del reporte: Es una prueba de transcripción de audio.
+[2025-08-06 17:14:15] [INFO] [573137182944] Archivos adjuntos: 9 archivos
+[2025-08-06 17:14:16] [INFO] [573137182944] Iniciando limpieza de datos de sesión
+[2025-08-06 17:14:16] [SUCCESS] ✅ EXITO usuario: 573137182944: Datos de sesión limpiados exitosamente
+[2025-08-06 17:14:16] [SUCCESS] ✅ EXITO usuario: 573137182944: Sesión finalizada exitosamente

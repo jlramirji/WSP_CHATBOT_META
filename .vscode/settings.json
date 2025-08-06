@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f35fb8e9-78bf-4dde-9895-1db51f926911/resourceGroups/JLRJ927/providers/Microsoft.Web/sites/MetaWSP",
+    "appService.deploySubpath": "."
+}

@@ -1,0 +1,24 @@
+[2025-08-06 16:58:20] [COMPATIBILITY] Conversión de compatibilidad: audio_573137182944_20250806_165819_040.mp3
+[2025-08-06 16:58:20] [AUDIO] Iniciando conversión OGG a WAV: audio_573137182944_20250806_165819_040.mp3
+[2025-08-06 16:58:20] [SUCCESS] ✅ EXITO archivo: temp_audio_573137182944_20250806_165819_040.wav: Conversión OGG a WAV exitosa
+[2025-08-06 16:58:20] [SUCCESS] ✅ EXITO archivo: temp_audio_573137182944_20250806_165819_040.wav: Conversión de compatibilidad exitosa
+[2025-08-06 16:58:20] [COMPATIBILITY] Transcripción de compatibilidad: temp_audio_573137182944_20250806_165819_040.wav
+[2025-08-06 16:58:20] [TRANSCRIPTION] Iniciando transcripción con Azure: temp_audio_573137182944_20250806_165819_040.wav
+[2025-08-06 16:58:21] [RECOGNITION] Texto reconocido: Es una prueba de audio....
+[2025-08-06 16:58:21] [SUCCESS] ✅ EXITO archivo: temp_audio_573137182944_20250806_165819_040.wav, texto: Es una prueba de audio....: Transcripción exitosa
+[2025-08-06 17:02:40] [COMPATIBILITY] Conversión de compatibilidad: audio_573137182944_20250806_170240_000.mp3
+[2025-08-06 17:02:40] [AUDIO] Iniciando conversión OGG a WAV: audio_573137182944_20250806_170240_000.mp3
+[2025-08-06 17:02:40] [SUCCESS] ✅ EXITO archivo: temp_audio_573137182944_20250806_170240_000.wav: Conversión OGG a WAV exitosa
+[2025-08-06 17:02:40] [SUCCESS] ✅ EXITO archivo: temp_audio_573137182944_20250806_170240_000.wav: Conversión de compatibilidad exitosa
+[2025-08-06 17:02:40] [COMPATIBILITY] Transcripción de compatibilidad: temp_audio_573137182944_20250806_170240_000.wav
+[2025-08-06 17:02:40] [TRANSCRIPTION] Iniciando transcripción con Azure: temp_audio_573137182944_20250806_170240_000.wav
+[2025-08-06 17:02:42] [RECOGNITION] Texto reconocido: Para reportar que Juan Carlos salió a vacaciones....
+[2025-08-06 17:02:42] [SUCCESS] ✅ EXITO archivo: temp_audio_573137182944_20250806_170240_000.wav, texto: Para reportar que Juan Carlos salió a vacaciones....: Transcripción exitosa
+[2025-08-06 17:12:56] [COMPATIBILITY] Conversión de compatibilidad: audio_573137182944_20250806_171255_719.mp3
+[2025-08-06 17:12:56] [AUDIO] Iniciando conversión OGG a WAV: audio_573137182944_20250806_171255_719.mp3
+[2025-08-06 17:12:56] [SUCCESS] ✅ EXITO archivo: temp_audio_573137182944_20250806_171255_719.wav: Conversión OGG a WAV exitosa
+[2025-08-06 17:12:56] [SUCCESS] ✅ EXITO archivo: temp_audio_573137182944_20250806_171255_719.wav: Conversión de compatibilidad exitosa
+[2025-08-06 17:12:56] [COMPATIBILITY] Transcripción de compatibilidad: temp_audio_573137182944_20250806_171255_719.wav
+[2025-08-06 17:12:56] [TRANSCRIPTION] Iniciando transcripción con Azure: temp_audio_573137182944_20250806_171255_719.wav
+[2025-08-06 17:12:58] [RECOGNITION] Texto reconocido: Es una prueba de transcripción de audio....
+[2025-08-06 17:12:58] [SUCCESS] ✅ EXITO archivo: temp_audio_573137182944_20250806_171255_719.wav, texto: Es una prueba de transcripción de audio....: Transcripción exitosa
